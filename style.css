@@ -3,3 +3,66 @@
 body {
     font-family: 'Courier New', Courier, monospace;
 }
+
+h1,
+h2 {
+    text-align: center;
+} 
+
+h3 {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 70%;
+}
+.recipie_img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 5px solid black;
+    border-radius: 10px;
+    border-color: black;
+}
+
+.recipie_desc,
+.home {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.ingredients {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.steps_head {
+    text-align: center;
+
+}
+
+.steps_block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 5%;
+    border: 3px solid black;
+    border-radius: 10px;
+    border-color: black;
+}
+
+.link {
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
